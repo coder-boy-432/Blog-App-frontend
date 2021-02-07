@@ -1,0 +1,12 @@
+.IconA {
+    /* height: 33px; */
+    display: flex;
+    justify-content: center;
+    color: #73AD21;
+}
+
+.IconI {
+    display: flex;
+    justify-content: center;
+    color: grey;
+}
