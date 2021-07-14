@@ -5,4 +5,4 @@ The Website(frontend) is hosted on Firebase
 
 <a href="https://github.com/coder-boy-432/Blog-App-backend"> Link to Backend Code Repository </a>
 <br/>
-<a href="https://blogsite-36293.web.app/home"> Link to access app </a>
+<a target="_blank" href="https://blogsite-36293.web.app/home"> Link to access app </a>
